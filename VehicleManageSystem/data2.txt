@@ -1,0 +1,8 @@
+Motorbike,1,wave,white,19.0,honda,110.0,true
+Motorbike,111,wave rsx,white,20.0,honda,99.0,true
+Car,5,bmw,red,500.0,bmw,sport,2000
+Car,6,bmw,red,500.0,bmw,sport,2000
+Car,7,MM,red,550.0,bmw,sport,2000
+Car,8,MMMM,red,555.0,bmw,sport,2000
+Motorbike,8,wave,black,999.0,honda,150.0,false
+Car,1000,Tesst 2,tesst 2,1111.0,tesst 2,tesst 2,2000
